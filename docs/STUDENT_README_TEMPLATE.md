@@ -7,7 +7,7 @@
 
 ## Open the notebook
 
-[Open in Colab](https://colab.research.google.com/github/Ahmed-1001/09231026/blob/main/project.ipynb)
+[Open in Colab]([https://colab.research.google.com/github/Ahmed-1001/09231026/blob/main/project.ipynb](https://colab.research.google.com/github/Ahmed-1001/09231026/blob/master/project.ipynb#scrollTo=cs453-revised-13))
 
 Private repositories require authorized access; this link does not make the project public.
 
